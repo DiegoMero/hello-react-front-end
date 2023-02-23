@@ -60,7 +60,8 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository and this one [ReactFrontEnd](https://github.com/DiegoMero/hello-rails-back-end):
+
 
 ```sh
   cd folder
