@@ -3,13 +3,13 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -40,12 +40,6 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
-
-### Key Features <a name="key-features"></a>
-
-- **There will be more greetings**
-- **There will be more colors**
-- **There will be a button for creating a new greeting**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,6 +91,12 @@ To run the project, execute the following command:
 - LinkedIn: [Diego Mero](https://www.linkedin.com/in/diego-mero/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **There will be more greetings**
+- **There will be more colors**
+- **There will be a button for creating a new greeting**
 
 ## 🤝 Contributing <a name="contributing"></a>
 
